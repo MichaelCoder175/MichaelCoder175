@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelCoder175
 - 👀 I’m interested in: Python, Ethical Hacking, Gaming
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, Javascript
 - 📫 How to reach me: Via Email: mtete175@gmail.com
 
 <!---
