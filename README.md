@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelCoder175
-- 👀 I’m interested in: Python, Ethical Hacking, FRC
-- 🌱 I’m currently learning: Python, Javascript
+- 👀 I’m interested in: Python, Hacking, FRC, AI, and other programming languages
+- 🌱 I’m currently learning: Python, Java
 - 📫 How to reach me: Via Email: mtete175@gmail.com
 
 <!---
